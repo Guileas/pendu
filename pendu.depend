@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1530649432 source:c:\users\jaspe\documents\dev\c\training\pendu\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"game.h"
+
+1530649456 c:\users\jaspe\documents\dev\c\training\pendu\pendu\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1530651300 source:c:\users\jaspe\documents\dev\c\training\pendu\pendu\game.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"game.h"
+	<ctype.h>
+
